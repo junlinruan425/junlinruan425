@@ -1,6 +1,6 @@
 ## Hi I am Junlin Ruan, here is my introduction.
 I'm currently a portgraduate student in Imperial College London, majoring in the Statistics(Data Science). I have done my undergraduate degree in the University of Southampton, which is in a small city near London. I really enjoy studying math and statistics in my student career, and I desire to learn more deeper knowledge about this field. 
-I'm looking for help with building Data Science Programming skills. You can contact me through this email: <jr725@ic.ac.uk>.
+I'm looking for help with building Data Science Programming skills. You can contact me through this email: <jr725@ic.ac.uk>. edit
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
